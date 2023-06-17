@@ -3,6 +3,7 @@ title: "DDD in large product portfolio - Andreas Pinhammer"
 date: 2023-06-17T22:00:00
 tags: ["talk","feedback","DDD"]
 series: ["DDD Europe 2023"]
+series_order: 1
 showAuthor: true
 authors:
   - "Nicolas Barlogis"
