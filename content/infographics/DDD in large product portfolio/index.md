@@ -17,4 +17,4 @@ Nice feedback from insurer R+V Versicherung AGm of a DDD experimentation.
 Soon
 
 ### Fr Version
-{{< embed-pdf url="./DDDInLargeProductPortfolioFR.pdf" hidePaginator="true" >}}
+{{< embed-pdf url="DDDInLargeProductPortfolioFR.pdf" hidePaginator="true" >}}
