@@ -1,0 +1,1 @@
+**Infographic summaries of books, conference talks, articles, concepts...**

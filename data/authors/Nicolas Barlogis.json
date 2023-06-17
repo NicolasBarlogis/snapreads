@@ -1,0 +1,9 @@
+{
+    "name": "Nicolas Barlogis",
+    "image" : "img/authors/nicolasbarlogis.jpeg",
+    "bio": "Software craftman",
+    "social": [
+        { "linkedin": "https://www.linkedin.com/in/nicolas-barlogis-585068b7" },
+        { "github": "https://github.com/NicolasBarlogis" }
+    ]
+}
