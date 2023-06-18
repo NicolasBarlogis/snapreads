@@ -17,4 +17,4 @@ DDD experimentation in a growing startup, from the point of view of an architect
 Soon
 
 ### Fr Version
-{{< embed-pdf url="PracticalDDD-TransformingTheoriesIntoGuidelinesFR.pdf" hidePaginator="true" >}}
+{{< embed-pdf url="./PracticalDDD-TransformingTheoriesIntoGuidelinesFR.pdf" hidePaginator="true" >}}

@@ -14,4 +14,4 @@ My take on this interesting book about software design, which introduce a lot of
  * [John Ousterhout website](https://web.stanford.edu/~ouster/cgi-bin/aposd.php)
 
 # Infographic
-{{< embed-pdf url="APhilosophyOfSoftwareDesignInfography.pdf" hidePaginator="true" >}}
+{{< embed-pdf url="./APhilosophyOfSoftwareDesignInfography.pdf" hidePaginator="true" >}}
