@@ -1,4 +1,4 @@
-![SnapReads icon](static/icon.png)
+![SnapReads icon](static/apple-touch-icon.png)
 # SnapReads
 Collaborative repository to store and easily share infographics summaries of books, conference talks, articles, concepts…
 ## Getting started
