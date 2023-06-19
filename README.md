@@ -1,3 +1,4 @@
+![SnapReads icon](static/icon.png)
 # SnapReads
 Collaborative repository to store and easily share infographics summaries of books, conference talks, articles, concepts…
 ## Getting started
