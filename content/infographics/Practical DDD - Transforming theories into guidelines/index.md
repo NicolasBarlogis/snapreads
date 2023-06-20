@@ -14,7 +14,7 @@ DDD experimentation in a growing startup, from the point of view of an architect
 
 # Infographic
 ### En Version
-Soon
+{{< embed-pdf url="./PracticalDDD-TransformingTheoriesIntoGuidelinesEN.pdf" hidePaginator="true" >}}
 
 ### Fr Version
 {{< embed-pdf url="./PracticalDDD-TransformingTheoriesIntoGuidelinesFR.pdf" hidePaginator="true" >}}
