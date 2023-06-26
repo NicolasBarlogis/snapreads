@@ -60,7 +60,7 @@ defaultFeaturedImage = "img/homepageImage.png" # used as default for featured im
   showEdit = false
   # editURL = "https://github.com/username/repo/"
   editAppendPath = true
-  seriesOpened = true
+  seriesOpened = false
   showHeadingAnchors = true
   showPagination = true
   invertPagination = false
@@ -75,8 +75,8 @@ defaultFeaturedImage = "img/homepageImage.png" # used as default for featured im
   # sharingLinks = [ "linkedin", "twitter", "reddit", "pinterest", "facebook", "email", "whatsapp", "telegram"]
 
 [list]
-  showHero = false
-  # heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
+  showHero = true
+  heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
   layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
   showBreadcrumbs = false
@@ -95,8 +95,8 @@ defaultFeaturedImage = "img/homepageImage.png" # used as default for featured im
 
 [taxonomy]
   showTermCount = true
-  showHero = false
-  # heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
+  showHero = true
+  heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   showBreadcrumbs = false
   showViews = false
   showLikes = false
