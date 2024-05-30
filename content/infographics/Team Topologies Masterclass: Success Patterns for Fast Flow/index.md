@@ -1,6 +1,6 @@
 ---
 title: "Team Topologies Masterclass: Success Patterns for Fast Flow - Sarah Wells, João Rosa"
-date: 2024-05-30T22:24:54
+date: 2024-05-30T20:24:54
 tags: ["workshop","DDD","team-topologies"]
 series: ["DDD Europe 2024"]
 series_order: 1
